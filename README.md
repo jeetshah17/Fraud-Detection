@@ -1,11 +1,11 @@
-# 💳 Online Payment Fraud Detection System
+# Online Payment Fraud Detection System
 
 This project focuses on detecting fraudulent online payment transactions using **machine learning classification techniques**.  
 The goal is to identify suspicious transactions and help businesses reduce financial risk through data-driven insights.
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 Online payment fraud is a major challenge in digital transactions.  
 In this project, machine learning models are trained to classify transactions as **fraudulent or legitimate** based on historical transaction data.
@@ -14,7 +14,7 @@ The solution demonstrates an **end-to-end ML pipeline**, including data preproce
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset contains transaction-level information such as:
 
@@ -30,7 +30,7 @@ The dataset contains transaction-level information such as:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python (Pandas, NumPy)
 - Machine Learning (scikit-learn)
@@ -40,7 +40,7 @@ The dataset contains transaction-level information such as:
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 1. Data loading and exploration  
 2. Data cleaning and preprocessing  
@@ -51,17 +51,13 @@ The dataset contains transaction-level information such as:
 
 ---
 
-## 📊 Results & Business Insights
+## Results & Business Insights
 
 - Successfully identified fraudulent transactions with high recall.
 - Feature engineering improved model performance.
 - The model can support **real-time fraud detection systems** and risk mitigation strategies.
 
 ---
-
-## 📄 License
-
-MIT License
 
 ---
 
